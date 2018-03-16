@@ -1,0 +1,4 @@
+*.font: xft:monospace:pixelsize=12
+*.scrollBar: false
+*.background: black
+*.foreground: white
