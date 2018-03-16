@@ -1,6 +1,2 @@
 #!/bin/sh
-# ~/.fehbg
-
-$imgdir=$(xdg-user-dir PICTURES)
-feh --bg-fill ~/${imgdir}/penrose.png' 
-
+'feh' '--bg-fill' '/home/cdo/img/penrose.png' 
