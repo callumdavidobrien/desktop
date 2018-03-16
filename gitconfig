@@ -1,3 +1,6 @@
+# ~/.gitconfig
+
 [user]
 	email = cdo@teknik.io
 	name = Callum David O'Brien
+

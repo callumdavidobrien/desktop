@@ -1,3 +1,5 @@
+# ~/.xinitrc
+
 xrdb -merge ~/.Xresources
 setxkbmap gb
 

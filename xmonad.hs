@@ -1,3 +1,5 @@
+-- ~/.xmonad/xmonad.hs
+
 import Data.Monoid
 import qualified Data.Map as M
 

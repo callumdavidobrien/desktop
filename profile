@@ -1,4 +1,4 @@
-# .bash_profile
+# ~/.profile
 
 alias ls='ls -F'
 
